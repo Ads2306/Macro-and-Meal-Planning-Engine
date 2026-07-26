@@ -1,10 +1,10 @@
-# 🥗 Algorithmic Meal & Macro Optimization Engine
+# Algorithmic Meal & Macro Optimization Engine
 
 An end-to-end Python engine that leverages proportional nutrient-density modeling and constraint-satisfaction algorithms to generate daily, macro-balanced, cost-controlled meal plans in seconds.
 
 ---
 
-## 📌 Executive Summary & Problem Statement
+## Summary & Problem Statement
 
 Manually constructing a daily meal plan that simultaneously satisfies strict macronutrient splits (Protein/Carbs/Fats), financial budget caps, and structural meal guidelines (Breakfast, Lunch, Dinner) is an extraordinarily tedious process. 
 
@@ -14,7 +14,7 @@ This project solves that combinatorial challenge by implementing a **heuristic s
 
 ---
 
-## 📊 Performance & Optimization Impact
+## Performance & Optimization Impact
 
 By transitioning from manual combinatorial meal planning to an algorithmic execution model, the system achieved drastic improvements in both efficiency and computational precision:
 
@@ -25,7 +25,7 @@ By transitioning from manual combinatorial meal planning to an algorithmic execu
 
 ---
 
-## 🛠️ Key Engine Architecture & Features
+## Key Engine Architecture & Features
 
 * **Proportional Nutrient Density Model:** Automatically identifies "clean vehicles" (foods with high target macro-to-fat ratios) to scale up protein and carb targets without breaching strict fat ceilings.
 * **Global Fat Compression:** Downscales fat allocations upfront across initial selections to guarantee fat caps are respected before scaling proteins or carbohydrates.
@@ -35,7 +35,7 @@ By transitioning from manual combinatorial meal planning to an algorithmic execu
 
 ---
 
-## 💻 Tech Stack & Requirements
+## Tech Stack & Requirements
 
 * **Language:** Python 3.x
 * **Core Libraries:** `pandas`, `numpy`
@@ -43,12 +43,12 @@ By transitioning from manual combinatorial meal planning to an algorithmic execu
 
 ---
 
-## 🚀 Project Status & Roadmap
+## Project Status & Roadmap
 
 > ⚠️ **Project Status: Active / Work in Progress**
 > Currently, the engine generates optimized, single-day meal allocations based on user target parameters (e.g., Gym Day vs. Running Day splits). Active development is underway to expand the engine from single-day generation to automated weekly menu planning.
 
-### 🛣️ Development Roadmap
+### Development Roadmap
 - [x] **Phase 1:** Core mathematical scaling algorithm and macro balancing engine.
 - [x] **Phase 2:** Defensive data parsing, sub-pool fallbacks, and segmented meal printing.
 - [ ] **Phase 3 (In Progress):** Expansion to **7-Day Weekly Generation** with dynamic recipe variety constraints (preventing duplicate consecutive meals).

@@ -35,32 +35,6 @@ By transitioning from manual combinatorial meal planning to an algorithmic execu
 
 ---
 
-## 📐 Algorithm & Decision Flow
-[ Raw CSV Data ] ➡️ [ Data Cleansing & Numeric Coercion ]
-🔀
-[ Sub-Pool Isolation ]
-🔀
-[ Baseline Agnostic Sample ]
-🔀
-[ Step 1: Global Fat Compression ]
-🔀
-[ Step 2: Clean Protein Scaling ]
-🔀
-[ Step 3: Clean Carbohydrate Scaling ]
-🔀
-[ Step 4: Budget & Macro Tolerance Check ]
-/
-
-(Passes Constraints)     (Fails Constraints)
-│                         │
-▼                         ▼
-[ Final Atwater Audit ]    [ Retry Loop (Max 5,000) ]
-│
-▼
-[ Segmented Output ]
-
----
-
 ## 💻 Tech Stack & Requirements
 
 * **Language:** Python 3.x

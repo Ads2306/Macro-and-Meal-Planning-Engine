@@ -2,7 +2,7 @@
 
 An end-to-end Python engine that leverages proportional nutrient-density modeling and constraint-satisfaction algorithms to generate daily, macro-balanced, cost-controlled meal plans in seconds.
 
-----
+---
 
 ## Summary & Problem Statement
 

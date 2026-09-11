@@ -51,6 +51,6 @@ By transitioning from manual combinatorial meal planning to an algorithmic execu
 ### Development Roadmap
 - [x] **Phase 1:** Core mathematical scaling algorithm and macro balancing engine.
 - [x] **Phase 2:** Defensive data parsing, sub-pool fallbacks, and segmented meal printing.
-- [ ] **Phase 3 (In Progress):** Expansion to **7-Day Weekly Generation** with dynamic recipe variety constraints (preventing duplicate consecutive meals).
+- [x] **Phase 3 (In Progress):** Expansion to **7-Day Weekly Generation** with dynamic recipe variety constraints (preventing duplicate consecutive meals).
 - [ ] **Phase 4:** Grocery List Aggregator (consolidating weekly meal output into a single shopping list with total budget tracking).
 - [ ] **Phase 5:** Simple GUI / Web interface for dynamic macro target inputs.

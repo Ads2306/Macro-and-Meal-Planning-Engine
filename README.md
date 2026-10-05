@@ -45,7 +45,7 @@ By transitioning from manual combinatorial meal planning to an algorithmic execu
 
 ## Project Status & Roadmap
 
-> ⚠️ **Project Status: Active / Work in Progress**
+>  **Project Status: Active / Work in Progress**
 > Currently, the engine generates optimized, single-day meal allocations based on user target parameters (e.g., Gym Day vs. Running Day splits). Active development is underway to expand the engine from single-day generation to automated weekly menu planning.
 
 ### Development Roadmap
